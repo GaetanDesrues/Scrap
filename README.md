@@ -1,7 +1,7 @@
 # Web Page Parser
 
-- download web page with urllib
-- parse what you need with BeautifulSoup
+- Download web page with urllib
+- Parse what you need with BeautifulSoup
 - Arrange it with pandas
 - Print it!
 
